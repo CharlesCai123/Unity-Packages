@@ -1,2 +1,2 @@
 # Final_IK_Unity
-Unity package Final IK
+Import Unity package Final IK by entering git URL: https://github.com/CharlesCai123/Unity-Packages.git?path=Final%20IK
