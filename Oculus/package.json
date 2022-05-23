@@ -1,0 +1,10 @@
+{
+  "name": "com.oculus.interface",
+  "displayName": "Oculus",
+  "version": "1.0.0",
+  "description": "Oculus Packages",
+  "keywords": [
+    "unity",
+    "Oculus"
+  ]
+}
