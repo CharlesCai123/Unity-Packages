@@ -1,0 +1,14 @@
+{
+  "name": "com.unity.rootmotion.final_ik",
+  "displayName": "Final IK",
+  "version": "1.0.0",
+  "description": "Unity Final IK",
+  "keywords": [
+    "unity",
+    "Final IK"
+  ],
+  "author": {
+    "name": "Yihao Cai",
+    "email": "yihaocai007@gmail.com"
+  }
+}
